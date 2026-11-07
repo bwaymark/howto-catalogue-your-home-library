@@ -225,4 +225,5 @@ Its drawers have no card rods. Rods ran through a hole in the bottom of each car
 
 ## Licence
 
-Text and script are free to reuse and adapt.
+- **Guide text:** [CC BY 4.0](LICENSE-DOCS.md). Reuse and adapt it freely, with credit.
+- **Script:** [MIT](LICENSE).
