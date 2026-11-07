@@ -219,6 +219,7 @@ Its drawers have no card rods. Rods ran through a hole in the bottom of each car
 
 - **Decide the rules before printing anything:** decimal places, geographic suffixes and how fiction is handled. Reprinting spine labels is tedious.
 - **LibraryThing's data is good but not clean.** Fix author names there, not in the merge file, or they'll come back on the next export.
+- **AI can classify the books LibraryThing can't.** For books with no Dewey number, ask an AI chatbot (a large language model such as Claude or ChatGPT). Give it the title, author and a line on what the book is about, and it will suggest a number with its reasoning and alternatives. Paste in the whole *No Dewey* list from the merge file to do them all at once. Treat the answers as suggestions: check each one against your own rules (decimal places, series grouping), then enter it in LibraryThing so it's there on the next export.
 - **Dewey subject captions are better than free-text subject headings** for a home catalogue. They're always present, consistent, and file in a logical order.
 - **Measure everything:** card size, drawer interiors and the length of the card run.
 
